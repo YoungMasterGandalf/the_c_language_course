@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     printf("Ell\tInches\tCentimeters\n");
     
     int i = 1;
