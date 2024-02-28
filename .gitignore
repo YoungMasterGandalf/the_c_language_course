@@ -1,0 +1,6 @@
+
+# VSCode settings files
+.vscode
+
+# Compiled C files
+*.out
